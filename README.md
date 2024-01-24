@@ -4,7 +4,7 @@ Check-Out my Python Projects:
 **Beginner Level**
 
 **1. BlackJack Game**
-[Click Here]([https://replit.com/@NiddhiBhangdia/BlackJack-Game](https://replit.com/@NiddhiBhangdia/BlackJack-Game)https://replit.com/@NiddhiBhangdia/BlackJack-Game)
+[Click Here](https://replit.com/@NiddhiBhangdia/BlackJack-Game)
 
 **2. Hangman Game**
 [Click Here](https://replit.com/@NiddhiBhangdia/Final-Hangman)
